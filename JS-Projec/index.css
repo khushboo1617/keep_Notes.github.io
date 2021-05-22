@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: brown;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.container my-3, h1{
+    background-color: rgb(42, 165, 159); 
+    font-family: cursive;
+}
+.card-body , card-title{
+    background-color: rgb(161, 163, 47);
+}
+
+#add-btn{
+    background-color:rgb(42, 165, 159) ;
+}
